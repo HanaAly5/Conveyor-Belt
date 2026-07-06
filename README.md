@@ -1,2 +1,3 @@
 # Conveyor-Belt
 Chain-Roller Conveyor Design — SolidWorks
+Designed a fully driven chain-roller conveyor system for a medical device manufacturing facility, capable of transporting 25 kg boxes at 0.5 m/s across a 6-meter run. Work covered the complete mechanical power transmission chain: motor power calculation and selection from the CHIARAVALLI catalogue, V-belt drive design, single-stage spur gearbox design with stress analysis, and sprocket-chain drive selection for inter-roller power transfer. Also performed bearing selection for all roller support blocks and material selection for structural components. Deliverables included full engineering calculations and a complete CAD assembly with 2D and 3D dimensioned drawings.
